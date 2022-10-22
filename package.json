@@ -19,6 +19,8 @@
   "homepage": "https://github.com/J-EUM/pre-onboarding-2nd-haii#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.13.2",
     "cors": "^2.8.5",
     "dbmate": "^1.0.3",
     "dotenv": "^16.0.3",
